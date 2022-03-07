@@ -9,4 +9,4 @@ Contents: - \
 6. DS-C-H006 Linked List Implementation of Queue
 7. DS-C-H007 Binary Search Tree
 8. DS-C-H008 Heap
-9. 
+9. DS-C-H010 Hash Table
